@@ -1,0 +1,1 @@
+import{d as e}from"./pinia.98a3f9b4.js";const t=e("jackpot",{state:()=>({tokens:void 0,result:void 0,resultDate:void 0,nextDrawing:void 0,nextDrawingId:void 0,fee:void 0,giveaway:void 0})});export{t as u};
